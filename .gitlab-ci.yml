@@ -1,4 +1,5 @@
 job1:
+  image: alpine
   script:
     - echo "Hi Gitlab"
     - echo "The master repo is from Github"
