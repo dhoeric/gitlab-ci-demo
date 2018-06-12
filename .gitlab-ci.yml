@@ -3,3 +3,4 @@ job1:
   script:
     - echo "Hi Gitlab"
     - echo "The master repo is from Github"
+    - echo "Hey Gitlab"
